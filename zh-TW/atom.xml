@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.cc/zh-TW/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.cc/zh-TW/"/>
-  <updated>2024-09-02T13:54:56.925Z</updated>
+  <updated>2024-09-02T13:25:30.474Z</updated>
   <id>https://blog.emn178.cc/zh-TW/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>OpenSSL 使用 enc 指令進行加解密 (AES, DES 等)</title>
-    <link href="https://blog.emn178.cc/zh-TW/post/index/"/>
-    <id>https://blog.emn178.cc/zh-TW/post/index/</id>
-    <published>2024-09-02T13:54:56.000Z</published>
-    <updated>2024-09-02T13:54:56.925Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>OpenSSL 使用指令進行 RSA 加解密</title>
