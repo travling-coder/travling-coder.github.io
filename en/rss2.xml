@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>emn178&#39;s Blog</title>
-    <link>https://blog.emn178.cc/en/</link>
+    <link>https://blog.emn178.com/en/</link>
     
-    <atom:link href="https://blog.emn178.cc/en/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.emn178.com/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
     <pubDate>Tue, 28 Nov 2023 07:24:28 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>
-      <link>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</link>
-      <guid>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</guid>
+      <link>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</link>
+      <guid>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</guid>
       <pubDate>Sat, 14 Oct 2023 02:17:23 GMT</pubDate>
       
         
@@ -26,18 +26,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Using Web3.js to Sign and Recover EIP-712 Typed Structured Data</title>
-      <link>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</link>
-      <guid>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</guid>
+      <link>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</link>
+      <guid>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</guid>
       <pubDate>Fri, 13 Oct 2023 11:50:47 GMT</pubDate>
       
         
@@ -48,18 +48,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity - EIP-712 Typed Structured Data Hashing and Signing</title>
-      <link>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</guid>
       <pubDate>Thu, 12 Oct 2023 12:39:22 GMT</pubDate>
       
         
@@ -70,20 +70,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Using Ethers.js to Sign and Recover</title>
-      <link>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/</link>
-      <guid>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/</guid>
+      <link>https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/</link>
+      <guid>https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/</guid>
       <pubDate>Wed, 11 Oct 2023 11:59:57 GMT</pubDate>
       
         
@@ -94,18 +94,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Using Web3.js to Sign and Recover</title>
-      <link>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/</link>
-      <guid>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/</guid>
+      <link>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/</link>
+      <guid>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/</guid>
       <pubDate>Tue, 10 Oct 2023 01:03:27 GMT</pubDate>
       
         
@@ -116,18 +116,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity - Signature Malleability</title>
-      <link>https://blog.emn178.cc/en/post/solidity-signature-malleability/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-signature-malleability/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-signature-malleability/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-signature-malleability/</guid>
       <pubDate>Mon, 09 Oct 2023 02:21:28 GMT</pubDate>
       
         
@@ -138,20 +138,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-signature-malleability/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-signature-malleability/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity - ecrecover</title>
-      <link>https://blog.emn178.cc/en/post/solidity-ecrecover/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-ecrecover/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-ecrecover/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-ecrecover/</guid>
       <pubDate>Sun, 08 Oct 2023 06:47:24 GMT</pubDate>
       
         
@@ -162,20 +162,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-ecrecover/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-ecrecover/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>zkEVM Airdrop Guide</title>
-      <link>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/</link>
-      <guid>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/</guid>
+      <link>https://blog.emn178.com/en/post/zkevm-airdrop-guide/</link>
+      <guid>https://blog.emn178.com/en/post/zkevm-airdrop-guide/</guid>
       <pubDate>Sun, 30 Jul 2023 10:06:32 GMT</pubDate>
       
         
@@ -186,18 +186,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/zkevm-airdrop-guide/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Load CSS Asynchronously</title>
-      <link>https://blog.emn178.cc/en/post/load-css-asynchronously/</link>
-      <guid>https://blog.emn178.cc/en/post/load-css-asynchronously/</guid>
+      <link>https://blog.emn178.com/en/post/load-css-asynchronously/</link>
+      <guid>https://blog.emn178.com/en/post/load-css-asynchronously/</guid>
       <pubDate>Fri, 28 Jul 2023 14:20:34 GMT</pubDate>
       
         
@@ -209,18 +209,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/load-css-asynchronously/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/load-css-asynchronously/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>GCP Cloud Monitoring - Reduce Data and Cost</title>
-      <link>https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</link>
-      <guid>https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</guid>
+      <link>https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</link>
+      <guid>https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</guid>
       <pubDate>Thu, 27 Jul 2023 15:12:03 GMT</pubDate>
       
         
@@ -231,18 +231,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/DevOps/">DevOps</category>
+      <category domain="https://blog.emn178.com/en/categories/DevOps/">DevOps</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Using Web3.js to Parse Custom Error</title>
-      <link>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</link>
-      <guid>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</guid>
+      <link>https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/</link>
+      <guid>https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/</guid>
       <pubDate>Tue, 20 Jun 2023 13:43:40 GMT</pubDate>
       
         
@@ -253,18 +253,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Using Ethers.js to Parse Custom Error</title>
-      <link>https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/</link>
-      <guid>https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/</guid>
+      <link>https://blog.emn178.com/en/post/ethers-js-parse-custom-error/</link>
+      <guid>https://blog.emn178.com/en/post/ethers-js-parse-custom-error/</guid>
       <pubDate>Mon, 19 Jun 2023 15:21:18 GMT</pubDate>
       
         
@@ -275,18 +275,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/ethers-js-parse-custom-error/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity - Custom Error</title>
-      <link>https://blog.emn178.cc/en/post/solidity-custom-error/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-custom-error/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-custom-error/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-custom-error/</guid>
       <pubDate>Sun, 18 Jun 2023 15:20:31 GMT</pubDate>
       
         
@@ -298,20 +298,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-custom-error/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-custom-error/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Token Checker - Token Sniffer and GoPlus</title>
-      <link>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/</link>
-      <guid>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/</guid>
+      <link>https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/</link>
+      <guid>https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/</guid>
       <pubDate>Sat, 10 Jun 2023 12:33:37 GMT</pubDate>
       
         
@@ -322,18 +322,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>LayerZero Airdrop Guide</title>
-      <link>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/</link>
-      <guid>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/</guid>
+      <link>https://blog.emn178.com/en/post/layerzero-airdrop-guide/</link>
+      <guid>https://blog.emn178.com/en/post/layerzero-airdrop-guide/</guid>
       <pubDate>Fri, 09 Jun 2023 14:32:17 GMT</pubDate>
       
         
@@ -344,18 +344,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/layerzero-airdrop-guide/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Linea Airdrop Guide</title>
-      <link>https://blog.emn178.cc/en/post/linea-airdrop-guide/</link>
-      <guid>https://blog.emn178.cc/en/post/linea-airdrop-guide/</guid>
+      <link>https://blog.emn178.com/en/post/linea-airdrop-guide/</link>
+      <guid>https://blog.emn178.com/en/post/linea-airdrop-guide/</guid>
       <pubDate>Tue, 06 Jun 2023 15:11:26 GMT</pubDate>
       
         
@@ -366,18 +366,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/linea-airdrop-guide/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/linea-airdrop-guide/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Blockchain Scam - Awesome Crypto World (ACW) Token</title>
-      <link>https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/</link>
-      <guid>https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/</guid>
+      <link>https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/</link>
+      <guid>https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/</guid>
       <pubDate>Mon, 05 Jun 2023 15:00:11 GMT</pubDate>
       
         
@@ -388,18 +388,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>StarkNet Airdrop Guide</title>
-      <link>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</link>
-      <guid>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</guid>
+      <link>https://blog.emn178.com/en/post/starknet-airdrop-guide/</link>
+      <guid>https://blog.emn178.com/en/post/starknet-airdrop-guide/</guid>
       <pubDate>Sun, 02 Apr 2023 12:09:49 GMT</pubDate>
       
         
@@ -410,18 +410,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/starknet-airdrop-guide/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/starknet-airdrop-guide/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Blockchain Scam - AI-A (AI Avail) Token</title>
-      <link>https://blog.emn178.cc/en/post/ai-a-scam-token/</link>
-      <guid>https://blog.emn178.cc/en/post/ai-a-scam-token/</guid>
+      <link>https://blog.emn178.com/en/post/ai-a-scam-token/</link>
+      <guid>https://blog.emn178.com/en/post/ai-a-scam-token/</guid>
       <pubDate>Sat, 01 Apr 2023 12:21:32 GMT</pubDate>
       
         
@@ -432,18 +432,18 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
       
-      <comments>https://blog.emn178.cc/en/post/ai-a-scam-token/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/ai-a-scam-token/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>zkSync Airdrop Guide Step by Step</title>
-      <link>https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/</link>
-      <guid>https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/</guid>
+      <link>https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/</link>
+      <guid>https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/</guid>
       <pubDate>Thu, 30 Mar 2023 14:14:18 GMT</pubDate>
       
         
@@ -454,20 +454,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/zkSync/">zkSync</category>
+      <category domain="https://blog.emn178.com/en/tags/zkSync/">zkSync</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>zkSync Airdrop Guide</title>
-      <link>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</link>
-      <guid>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</guid>
+      <link>https://blog.emn178.com/en/post/zksync-airdrop-strategy/</link>
+      <guid>https://blog.emn178.com/en/post/zksync-airdrop-strategy/</guid>
       <pubDate>Sun, 26 Mar 2023 14:43:07 GMT</pubDate>
       
         
@@ -478,20 +478,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/zkSync/">zkSync</category>
+      <category domain="https://blog.emn178.com/en/tags/zkSync/">zkSync</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/zksync-airdrop-strategy/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity Gas Optimizations - Variable Ordering</title>
-      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/</guid>
       <pubDate>Tue, 11 Sep 2018 02:26:38 GMT</pubDate>
       
       <description>This article explains the gas optimization techniques of Solidity smart contracts, explains how variable ordering affect gas consumption, and provides two optimization strategies to reduce gas consumption.</description>
@@ -499,20 +499,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity Gas Optimizations - Data Compression</title>
-      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/</guid>
       <pubDate>Mon, 07 May 2018 10:26:05 GMT</pubDate>
       
       <description>This article explains the gas optimization techniques of Solidity smart contracts. Explain how to use data merging and numbering to compress data to reduce variables and gas consumption.</description>
@@ -520,20 +520,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity Gas Optimizations - Function Name</title>
-      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/</guid>
       <pubDate>Fri, 04 May 2018 09:04:52 GMT</pubDate>
       
       <description>This article explains the gas optimization techniques of Solidity smart contracts. The article will explain the rules and principles of function names on gas consumption, explain the definition and generation of function signatures and Method IDs, and finally provide optimization methods.</description>
@@ -541,20 +541,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Solidity Gas Optimizations</title>
-      <link>https://blog.emn178.cc/en/post/solidity-gas-optimization/</link>
-      <guid>https://blog.emn178.cc/en/post/solidity-gas-optimization/</guid>
+      <link>https://blog.emn178.com/en/post/solidity-gas-optimization/</link>
+      <guid>https://blog.emn178.com/en/post/solidity-gas-optimization/</guid>
       <pubDate>Wed, 07 Mar 2018 09:02:40 GMT</pubDate>
       
       <description>This article explains the gas optimization techniques of Solidity smart contracts. This article will organize and analyze some factors that affect gas consumption in smart contracts, which will help us understand which instructions consume the most and use them cautiously.</description>
@@ -562,20 +562,20 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Blockchain/">Blockchain</category>
+      <category domain="https://blog.emn178.com/en/categories/Blockchain/">Blockchain</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Solidity/">Solidity</category>
+      <category domain="https://blog.emn178.com/en/tags/Solidity/">Solidity</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/solidity-gas-optimization/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/solidity-gas-optimization/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>How to Measure JavaScript Code Coverage With jscoverage</title>
-      <link>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</link>
-      <guid>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</guid>
+      <link>https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</link>
+      <guid>https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</guid>
       <pubDate>Fri, 30 Oct 2015 09:34:00 GMT</pubDate>
       
         
@@ -586,22 +586,22 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.com/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.com/en/tags/JavaScript/">JavaScript</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>How to Write a Library for Node.js and Browser with Mocha Unit Tests</title>
-      <link>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</link>
-      <guid>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</guid>
+      <link>https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</link>
+      <guid>https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</guid>
       <pubDate>Wed, 28 Oct 2015 09:20:00 GMT</pubDate>
       
         
@@ -612,22 +612,22 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.com/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.com/en/tags/JavaScript/">JavaScript</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Node.js - How to Integrate Travis CI with GitHub</title>
-      <link>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</link>
-      <guid>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</guid>
+      <link>https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/</link>
+      <guid>https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/</guid>
       <pubDate>Wed, 28 Oct 2015 07:50:00 GMT</pubDate>
       
         
@@ -638,22 +638,22 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Node-js/">Node.js</category>
+      <category domain="https://blog.emn178.com/en/tags/Node-js/">Node.js</category>
       
-      <category domain="https://blog.emn178.cc/en/tags/JavaScript/">JavaScript</category>
+      <category domain="https://blog.emn178.com/en/tags/JavaScript/">JavaScript</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>How to omit bundle exec prefix by bundle binstubs</title>
-      <link>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</link>
-      <guid>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</guid>
+      <link>https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</link>
+      <guid>https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</guid>
       <pubDate>Wed, 28 Oct 2015 06:00:00 GMT</pubDate>
       
         
@@ -664,13 +664,13 @@
       
       
       
-      <category domain="https://blog.emn178.cc/en/categories/Programming/">Programming</category>
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
       
       
-      <category domain="https://blog.emn178.cc/en/tags/Ruby/">Ruby</category>
+      <category domain="https://blog.emn178.com/en/tags/Ruby/">Ruby</category>
       
       
-      <comments>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/#disqus_thread</comments>
+      <comments>https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/#disqus_thread</comments>
       
     </item>
     

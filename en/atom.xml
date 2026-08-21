@@ -3,11 +3,11 @@
   <title>emn178&#39;s Blog</title>
   
   <subtitle>Programming and Technology</subtitle>
-  <link href="https://blog.emn178.cc/en/atom.xml" rel="self"/>
+  <link href="https://blog.emn178.com/en/atom.xml" rel="self"/>
   
-  <link href="https://blog.emn178.cc/en/"/>
+  <link href="https://blog.emn178.com/en/"/>
   <updated>2023-11-28T07:24:28.027Z</updated>
-  <id>https://blog.emn178.cc/en/</id>
+  <id>https://blog.emn178.com/en/</id>
   
   <author>
     <name>emn178</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>
-    <link href="https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/"/>
-    <id>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</id>
+    <link href="https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/"/>
+    <id>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</id>
     <published>2023-10-14T02:17:23.000Z</published>
     <updated>2023-11-28T07:24:28.027Z</updated>
     
@@ -31,15 +31,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Using Web3.js to Sign and Recover EIP-712 Typed Structured Data</title>
-    <link href="https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
-    <id>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
+    <link href="https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/"/>
+    <id>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover-eip-712-typed-structured-data/</id>
     <published>2023-10-13T11:50:47.000Z</published>
     <updated>2023-10-14T02:15:42.448Z</updated>
     
@@ -51,15 +51,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Solidity - EIP-712 Typed Structured Data Hashing and Signing</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/"/>
+    <id>https://blog.emn178.com/en/post/solidity-eip-712-typed-structured-data-hashing-and-signing/</id>
     <published>2023-10-12T12:39:22.000Z</published>
     <updated>2023-11-28T07:24:32.068Z</updated>
     
@@ -71,17 +71,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Using Ethers.js to Sign and Recover</title>
-    <link href="https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/"/>
-    <id>https://blog.emn178.cc/en/post/using-ethers-js-to-sign-and-recover/</id>
+    <link href="https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/"/>
+    <id>https://blog.emn178.com/en/post/using-ethers-js-to-sign-and-recover/</id>
     <published>2023-10-11T11:59:57.000Z</published>
     <updated>2023-10-14T02:16:16.152Z</updated>
     
@@ -93,15 +93,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Using Web3.js to Sign and Recover</title>
-    <link href="https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/"/>
-    <id>https://blog.emn178.cc/en/post/using-web3-js-to-sign-and-recover/</id>
+    <link href="https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/"/>
+    <id>https://blog.emn178.com/en/post/using-web3-js-to-sign-and-recover/</id>
     <published>2023-10-10T01:03:27.000Z</published>
     <updated>2023-11-28T07:24:40.733Z</updated>
     
@@ -113,15 +113,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Solidity - Signature Malleability</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-signature-malleability/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-signature-malleability/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-signature-malleability/"/>
+    <id>https://blog.emn178.com/en/post/solidity-signature-malleability/</id>
     <published>2023-10-09T02:21:28.000Z</published>
     <updated>2023-10-09T02:21:47.484Z</updated>
     
@@ -133,17 +133,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Solidity - ecrecover</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-ecrecover/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-ecrecover/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-ecrecover/"/>
+    <id>https://blog.emn178.com/en/post/solidity-ecrecover/</id>
     <published>2023-10-08T06:47:24.000Z</published>
     <updated>2023-10-11T12:46:11.772Z</updated>
     
@@ -155,17 +155,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>zkEVM Airdrop Guide</title>
-    <link href="https://blog.emn178.cc/en/post/zkevm-airdrop-guide/"/>
-    <id>https://blog.emn178.cc/en/post/zkevm-airdrop-guide/</id>
+    <link href="https://blog.emn178.com/en/post/zkevm-airdrop-guide/"/>
+    <id>https://blog.emn178.com/en/post/zkevm-airdrop-guide/</id>
     <published>2023-07-30T10:06:32.000Z</published>
     <updated>2023-08-03T02:39:57.812Z</updated>
     
@@ -177,15 +177,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Load CSS Asynchronously</title>
-    <link href="https://blog.emn178.cc/en/post/load-css-asynchronously/"/>
-    <id>https://blog.emn178.cc/en/post/load-css-asynchronously/</id>
+    <link href="https://blog.emn178.com/en/post/load-css-asynchronously/"/>
+    <id>https://blog.emn178.com/en/post/load-css-asynchronously/</id>
     <published>2023-07-28T14:20:34.000Z</published>
     <updated>2023-07-28T14:20:12.076Z</updated>
     
@@ -198,15 +198,15 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
   </entry>
   
   <entry>
     <title>GCP Cloud Monitoring - Reduce Data and Cost</title>
-    <link href="https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/"/>
-    <id>https://blog.emn178.cc/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</id>
+    <link href="https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/"/>
+    <id>https://blog.emn178.com/en/post/gcp-cloud-monitoring-reduce-data-and-cost/</id>
     <published>2023-07-27T15:12:03.000Z</published>
     <updated>2023-07-27T15:12:35.446Z</updated>
     
@@ -218,15 +218,15 @@
     
     
     
-    <category term="DevOps" scheme="https://blog.emn178.cc/en/categories/DevOps/"/>
+    <category term="DevOps" scheme="https://blog.emn178.com/en/categories/DevOps/"/>
     
     
   </entry>
   
   <entry>
     <title>Using Web3.js to Parse Custom Error</title>
-    <link href="https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/"/>
-    <id>https://blog.emn178.cc/en/post/using-web3-js-to-parse-custom-error/</id>
+    <link href="https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/"/>
+    <id>https://blog.emn178.com/en/post/using-web3-js-to-parse-custom-error/</id>
     <published>2023-06-20T13:43:40.000Z</published>
     <updated>2023-10-08T06:43:21.468Z</updated>
     
@@ -238,15 +238,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Using Ethers.js to Parse Custom Error</title>
-    <link href="https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/"/>
-    <id>https://blog.emn178.cc/en/post/ethers-js-parse-custom-error/</id>
+    <link href="https://blog.emn178.com/en/post/ethers-js-parse-custom-error/"/>
+    <id>https://blog.emn178.com/en/post/ethers-js-parse-custom-error/</id>
     <published>2023-06-19T15:21:18.000Z</published>
     <updated>2023-10-08T06:43:23.465Z</updated>
     
@@ -258,15 +258,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Solidity - Custom Error</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-custom-error/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-custom-error/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-custom-error/"/>
+    <id>https://blog.emn178.com/en/post/solidity-custom-error/</id>
     <published>2023-06-18T15:20:31.000Z</published>
     <updated>2023-10-08T06:43:29.764Z</updated>
     
@@ -279,17 +279,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Token Checker - Token Sniffer and GoPlus</title>
-    <link href="https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/"/>
-    <id>https://blog.emn178.cc/en/post/scam-token-check-tools-token-sniffer-and-goplus/</id>
+    <link href="https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/"/>
+    <id>https://blog.emn178.com/en/post/scam-token-check-tools-token-sniffer-and-goplus/</id>
     <published>2023-06-10T12:33:37.000Z</published>
     <updated>2023-06-10T12:33:31.906Z</updated>
     
@@ -301,15 +301,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>LayerZero Airdrop Guide</title>
-    <link href="https://blog.emn178.cc/en/post/layerzero-airdrop-guide/"/>
-    <id>https://blog.emn178.cc/en/post/layerzero-airdrop-guide/</id>
+    <link href="https://blog.emn178.com/en/post/layerzero-airdrop-guide/"/>
+    <id>https://blog.emn178.com/en/post/layerzero-airdrop-guide/</id>
     <published>2023-06-09T14:32:17.000Z</published>
     <updated>2023-06-18T07:50:49.773Z</updated>
     
@@ -321,15 +321,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Linea Airdrop Guide</title>
-    <link href="https://blog.emn178.cc/en/post/linea-airdrop-guide/"/>
-    <id>https://blog.emn178.cc/en/post/linea-airdrop-guide/</id>
+    <link href="https://blog.emn178.com/en/post/linea-airdrop-guide/"/>
+    <id>https://blog.emn178.com/en/post/linea-airdrop-guide/</id>
     <published>2023-06-06T15:11:26.000Z</published>
     <updated>2023-08-04T05:40:58.943Z</updated>
     
@@ -341,15 +341,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Blockchain Scam - Awesome Crypto World (ACW) Token</title>
-    <link href="https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/"/>
-    <id>https://blog.emn178.cc/en/post/awesome-crypto-world-acw-scam-token/</id>
+    <link href="https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/"/>
+    <id>https://blog.emn178.com/en/post/awesome-crypto-world-acw-scam-token/</id>
     <published>2023-06-05T15:00:11.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -361,15 +361,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>StarkNet Airdrop Guide</title>
-    <link href="https://blog.emn178.cc/en/post/starknet-airdrop-guide/"/>
-    <id>https://blog.emn178.cc/en/post/starknet-airdrop-guide/</id>
+    <link href="https://blog.emn178.com/en/post/starknet-airdrop-guide/"/>
+    <id>https://blog.emn178.com/en/post/starknet-airdrop-guide/</id>
     <published>2023-04-02T12:09:49.000Z</published>
     <updated>2023-07-30T07:00:44.158Z</updated>
     
@@ -381,15 +381,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>Blockchain Scam - AI-A (AI Avail) Token</title>
-    <link href="https://blog.emn178.cc/en/post/ai-a-scam-token/"/>
-    <id>https://blog.emn178.cc/en/post/ai-a-scam-token/</id>
+    <link href="https://blog.emn178.com/en/post/ai-a-scam-token/"/>
+    <id>https://blog.emn178.com/en/post/ai-a-scam-token/</id>
     <published>2023-04-01T12:21:32.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -401,15 +401,15 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
   </entry>
   
   <entry>
     <title>zkSync Airdrop Guide Step by Step</title>
-    <link href="https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/"/>
-    <id>https://blog.emn178.cc/en/post/zksync-airdrop-step-by-step/</id>
+    <link href="https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/"/>
+    <id>https://blog.emn178.com/en/post/zksync-airdrop-step-by-step/</id>
     <published>2023-03-30T14:14:18.000Z</published>
     <updated>2023-05-17T14:09:13.855Z</updated>
     
@@ -421,17 +421,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="zkSync" scheme="https://blog.emn178.cc/en/tags/zkSync/"/>
+    <category term="zkSync" scheme="https://blog.emn178.com/en/tags/zkSync/"/>
     
   </entry>
   
   <entry>
     <title>zkSync Airdrop Guide</title>
-    <link href="https://blog.emn178.cc/en/post/zksync-airdrop-strategy/"/>
-    <id>https://blog.emn178.cc/en/post/zksync-airdrop-strategy/</id>
+    <link href="https://blog.emn178.com/en/post/zksync-airdrop-strategy/"/>
+    <id>https://blog.emn178.com/en/post/zksync-airdrop-strategy/</id>
     <published>2023-03-26T14:43:07.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -443,17 +443,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="zkSync" scheme="https://blog.emn178.cc/en/tags/zkSync/"/>
+    <category term="zkSync" scheme="https://blog.emn178.com/en/tags/zkSync/"/>
     
   </entry>
   
   <entry>
     <title>Solidity Gas Optimizations - Variable Ordering</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-variable-ordering/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/"/>
+    <id>https://blog.emn178.com/en/post/solidity-gas-optimization-variable-ordering/</id>
     <published>2018-09-11T02:26:38.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -462,17 +462,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Solidity Gas Optimizations - Data Compression</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-data-compression/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/"/>
+    <id>https://blog.emn178.com/en/post/solidity-gas-optimization-data-compression/</id>
     <published>2018-05-07T10:26:05.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -481,17 +481,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Solidity Gas Optimizations - Function Name</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-gas-optimization-function-name/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/"/>
+    <id>https://blog.emn178.com/en/post/solidity-gas-optimization-function-name/</id>
     <published>2018-05-04T09:04:52.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -500,17 +500,17 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>Solidity Gas Optimizations</title>
-    <link href="https://blog.emn178.cc/en/post/solidity-gas-optimization/"/>
-    <id>https://blog.emn178.cc/en/post/solidity-gas-optimization/</id>
+    <link href="https://blog.emn178.com/en/post/solidity-gas-optimization/"/>
+    <id>https://blog.emn178.com/en/post/solidity-gas-optimization/</id>
     <published>2018-03-07T09:02:40.000Z</published>
     <updated>2023-10-08T06:44:18.768Z</updated>
     
@@ -519,17 +519,17 @@
     
     
     
-    <category term="Blockchain" scheme="https://blog.emn178.cc/en/categories/Blockchain/"/>
+    <category term="Blockchain" scheme="https://blog.emn178.com/en/categories/Blockchain/"/>
     
     
-    <category term="Solidity" scheme="https://blog.emn178.cc/en/tags/Solidity/"/>
+    <category term="Solidity" scheme="https://blog.emn178.com/en/tags/Solidity/"/>
     
   </entry>
   
   <entry>
     <title>How to Measure JavaScript Code Coverage With jscoverage</title>
-    <link href="https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
-    <id>https://blog.emn178.cc/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
+    <link href="https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/"/>
+    <id>https://blog.emn178.com/en/post/how-to-measure-javascript-code-coverage-with-jscoverage/</id>
     <published>2015-10-30T09:34:00.000Z</published>
     <updated>2023-11-07T08:14:09.984Z</updated>
     
@@ -541,19 +541,19 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.com/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.com/en/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>How to Write a Library for Node.js and Browser with Mocha Unit Tests</title>
-    <link href="https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
-    <id>https://blog.emn178.cc/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
+    <link href="https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/"/>
+    <id>https://blog.emn178.com/en/post/how-to-write-a-library-for-node-js-and-browser-with-mocha-unit-tests/</id>
     <published>2015-10-28T09:20:00.000Z</published>
     <updated>2023-11-07T08:13:22.614Z</updated>
     
@@ -565,19 +565,19 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.com/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.com/en/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>Node.js - How to Integrate Travis CI with GitHub</title>
-    <link href="https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/"/>
-    <id>https://blog.emn178.cc/en/post/node-js-how-to-integrate-travis-ci-with-github/</id>
+    <link href="https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/"/>
+    <id>https://blog.emn178.com/en/post/node-js-how-to-integrate-travis-ci-with-github/</id>
     <published>2015-10-28T07:50:00.000Z</published>
     <updated>2023-11-07T08:14:03.156Z</updated>
     
@@ -589,19 +589,19 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
-    <category term="Node.js" scheme="https://blog.emn178.cc/en/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://blog.emn178.com/en/tags/Node-js/"/>
     
-    <category term="JavaScript" scheme="https://blog.emn178.cc/en/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://blog.emn178.com/en/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>How to omit bundle exec prefix by bundle binstubs</title>
-    <link href="https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
-    <id>https://blog.emn178.cc/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
+    <link href="https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/"/>
+    <id>https://blog.emn178.com/en/post/how-to-omit-bundle-exec-prefix-by-bundle-binstubs/</id>
     <published>2015-10-28T06:00:00.000Z</published>
     <updated>2023-04-17T01:37:34.943Z</updated>
     
@@ -613,10 +613,10 @@
     
     
     
-    <category term="Programming" scheme="https://blog.emn178.cc/en/categories/Programming/"/>
+    <category term="Programming" scheme="https://blog.emn178.com/en/categories/Programming/"/>
     
     
-    <category term="Ruby" scheme="https://blog.emn178.cc/en/tags/Ruby/"/>
+    <category term="Ruby" scheme="https://blog.emn178.com/en/tags/Ruby/"/>
     
   </entry>
   
