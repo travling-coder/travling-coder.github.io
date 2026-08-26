@@ -35,6 +35,84 @@
     </item>
     
     <item>
+      <title>ancestry vs awesome_nested_set - Rails 樹狀結構比較</title>
+      <link>https://blog.emn178.com/zh-TW/post/ancestry-vs-awesome-nested-set/</link>
+      <guid>https://blog.emn178.com/zh-TW/post/ancestry-vs-awesome-nested-set/</guid>
+      <pubDate>Sun, 04 May 2025 05:56:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;在 Rails 中處理樹狀結構有一些套件可用，本篇文章將比較下面幾種解決方案：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/stefankroes/ancestry&quot;&gt;ancestry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;htt</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/zh-TW/post/ancestry-vs-awesome-nested-set/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
+      <link>https://blog.emn178.com/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</link>
+      <guid>https://blog.emn178.com/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/</guid>
+      <pubDate>Sat, 12 Apr 2025 02:13:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;acts-as-taggable-on 是 Rails 中處理標籤功能的常用套件，而利用 PostgreSQL 特殊的 Array 型別也能實現類似的功能，像是 acts-as-taggable-array-on 套件就是以 PostgreSQL Array 實現。本篇文章</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/zh-TW/post/acts-as-taggable-on-vs-postgresql-array/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API 解決方案選擇</title>
+      <link>https://blog.emn178.com/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</link>
+      <guid>https://blog.emn178.com/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</guid>
+      <pubDate>Sat, 15 Mar 2025 13:16:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Rails 產生 JSON 有內建的 &lt;code&gt;as_json&lt;/code&gt; 可以使用之外，對於 JSON API 處理也有預設安裝的 jbuilder 套件，也有其他不同套件可以選擇。本篇文章將比較下面幾種解決方案：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;as_json&lt;/li&gt;
+</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      <category domain="https://blog.emn178.com/zh-TW/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/zh-TW/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>OpenSSL 使用指令進行 RSA 加解密</title>
       <link>https://blog.emn178.com/zh-TW/post/openssl-rsa-encryption-and-decryption/</link>
       <guid>https://blog.emn178.com/zh-TW/post/openssl-rsa-encryption-and-decryption/</guid>

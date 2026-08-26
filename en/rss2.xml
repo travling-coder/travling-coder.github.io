@@ -35,6 +35,80 @@
     </item>
     
     <item>
+      <title>ancestry vs. awesome_nested_set</title>
+      <link>https://blog.emn178.com/en/post/ancestry-vs-awesome-nested-set/</link>
+      <guid>https://blog.emn178.com/en/post/ancestry-vs-awesome-nested-set/</guid>
+      <pubDate>Sat, 17 May 2025 13:16:57 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;There are several gems available for handling tree structures in Rails. This article will compare the following solutions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/en/post/ancestry-vs-awesome-nested-set/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>acts-as-taggable-on vs. PostgreSQL Array (acts-as-taggable-array-on)</title>
+      <link>https://blog.emn178.com/en/post/acts-as-taggable-on-vs-postgresql-array/</link>
+      <guid>https://blog.emn178.com/en/post/acts-as-taggable-on-vs-postgresql-array/</guid>
+      <pubDate>Mon, 14 Apr 2025 13:32:09 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;acts-as-taggable-on is a commonly used gem in Rails for handling tagging functionality. However, similar features can also be implemented</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/en/post/acts-as-taggable-on-vs-postgresql-array/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>jbuilder vs active_model_serializers vs oj_serializers - Rails JSON API Comparison</title>
+      <link>https://blog.emn178.com/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</link>
+      <guid>https://blog.emn178.com/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/</guid>
+      <pubDate>Sun, 23 Mar 2025 02:03:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Rails provides a built-in &lt;code&gt;as_json&lt;/code&gt; method for generating JSON. Additionally, jbuilder is the default gem for handling JSON AP</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/">Programming</category>
+      
+      <category domain="https://blog.emn178.com/en/categories/Programming/Ruby/">Ruby</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/en/post/jbuilder-vs-active-model-serializers-vs-oj-serializers/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>
       <link>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</link>
       <guid>https://blog.emn178.com/en/post/using-ethers-js-to-sign-eip-712-typed-structured-data/</guid>
