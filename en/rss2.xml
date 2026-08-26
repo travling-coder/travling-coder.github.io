@@ -9,8 +9,30 @@
     <atom:link href="https://blog.emn178.com/en/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A blog sharing experiences about programming and technology.</description>
-    <pubDate>Tue, 28 Nov 2023 07:24:28 GMT</pubDate>
+    <pubDate>Wed, 26 Aug 2026 06:40:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Sitemap Fetching Issues with CC and Certain Domain</title>
+      <link>https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/</link>
+      <guid>https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/</guid>
+      <pubDate>Wed, 26 Aug 2026 06:32:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Two or three years ago, I registered the emn178.cc domain and tried to move my blog to it. At the time, I ran into an issue with submitti</description>
+        
+      
+      
+      
+      
+      <category domain="https://blog.emn178.com/en/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/">程式技術</category>
+      
+      
+      
+      <comments>https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>

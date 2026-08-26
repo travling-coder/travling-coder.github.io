@@ -6,7 +6,7 @@
   <link href="https://blog.emn178.com/en/atom.xml" rel="self"/>
   
   <link href="https://blog.emn178.com/en/"/>
-  <updated>2023-11-28T07:24:28.027Z</updated>
+  <updated>2026-08-26T06:40:21.856Z</updated>
   <id>https://blog.emn178.com/en/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sitemap Fetching Issues with CC and Certain Domain</title>
+    <link href="https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/"/>
+    <id>https://blog.emn178.com/en/post/cc-specific-domain-sitemap-fetch-issue/</id>
+    <published>2026-08-26T06:32:07.000Z</published>
+    <updated>2026-08-26T06:40:21.856Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Two or three years ago, I registered the emn178.cc domain and tried to move my blog to it. At the time, I ran into an issue with submitti</summary>
+      
+    
+    
+    
+    <category term="程式技術" scheme="https://blog.emn178.com/en/categories/%E7%A8%8B%E5%BC%8F%E6%8A%80%E8%A1%93/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Using Ethers.js to Sign and Recover EIP-712 Typed Structured Data</title>
